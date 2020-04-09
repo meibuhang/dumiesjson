@@ -1,4 +1,5 @@
-[
+{
+    [
     {
         "name": "Gummy bears",
         "brand": "Haribo",
@@ -20,3 +21,4 @@
         "quantity": 0
     }
 ]
+}
